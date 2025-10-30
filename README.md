@@ -1,4 +1,6 @@
 # Домашнее задание по НИС Актуальные проблемы в компьютерной лингвистике
-Домашнее задание 1 - [Done](01_homework.ipynb)
+Вводное дз 1 — [Done](training_01_homework.ipynb)
+Вводное дз 2 — [Done](training_02_homework.ipynb)
 
-Домашнее задание 2 - [Done](02_homework.ipynb)
+**Полноценные домашние задания**
+Домашнее задание 1 — [Done][1_homework.ipynb]
