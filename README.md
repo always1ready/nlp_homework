@@ -17,3 +17,5 @@
 Домашнее задание 5 — [Done](5_homework.ipynb)
 
 Домашнее задание 6 — [Done](6_homework.ipynb)
+
+Домашнее задание 7 — [Done](7_homework.ipynb)
